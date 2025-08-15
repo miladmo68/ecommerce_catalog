@@ -1,7 +1,9 @@
 
 # 🛒 E‑Commerce Catalog – MERN Stack
+<img width="2880" height="1582" alt="E-commerce-Store" src="https://github.com/user-attachments/assets/593bb727-e2cf-4ba8-bd38-f519a6f521e5" />
 
-## Features
+## Feature![Uploading E-commerce-Store.png…]()
+s
 * Product grid, filter/search ready
 * Add to cart & view cart (Context API)
 * TailwindCSS + daisyUI styling
