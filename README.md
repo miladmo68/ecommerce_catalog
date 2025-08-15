@@ -6,7 +6,7 @@
 <p align="center"><img width="2880" height="1582" alt="E-commerce-Store" src="https://github.com/user-attachments/assets/593bb727-e2cf-4ba8-bd38-f519a6f521e5" /></p>
 
 
-## Feature![Uploading E-commerce-Store.png…]()
+## Feature!
 s
 * Product grid, filter/search ready
 * Add to cart & view cart (Context API)
